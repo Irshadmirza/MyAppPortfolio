@@ -12,6 +12,10 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
+
+
+// MainActivity MyAppPortfolio
+
 public class MainActivity extends AppCompatActivity {
     TextView t;
     Button a,b,c,d,e,f;
