@@ -13,13 +13,10 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 
-
-// MainActivity MyAppPortfolio
-
 public class MainActivity extends AppCompatActivity {
     TextView t;
     Button a,b,c,d,e,f;
-
+// oncreate Method
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
